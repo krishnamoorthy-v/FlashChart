@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1059303514816",
+    "project_id": "flash-chart-2ccb8",
+    "storage_bucket": "flash-chart-2ccb8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059303514816:android:c6f978916312c8359e8325",
+        "android_client_info": {
+          "package_name": "com.example.flashchart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1059303514816-glr0klcdsbgd4rmri3htdsjk4jkerrbf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-Bpn86IPkIVwbSOGV06wjSZ1aNC7GAAc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1059303514816-glr0klcdsbgd4rmri3htdsjk4jkerrbf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
